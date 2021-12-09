@@ -12,4 +12,3 @@ phases:
 artifacts:
   files:
     - target/pipelinedemo.jar
-  discard-paths: yes
